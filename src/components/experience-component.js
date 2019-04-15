@@ -23,9 +23,19 @@ export default class Experience extends Component {
 					               </div>
 
 					               <div class="timeline-label">
-					                  <h2><a href="#">Full Stack Developer</a> <span>2017-2018</span></h2>
-					                  <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
-					               </div>
+					                  <h2><a href="#">Software Engineer at Clixlogix Techologies</a> <span>Feb 2018- Present</span></h2>
+					                  <p>
+												<ul>
+													<li>Reponsible for understading the clients requirements.</li>
+													<li>Develop mobile and web applications in various techologies.</li>
+													<li>Build Enterprise System back-end using NodeJS, Mongodb and Express.</li>
+													<li>Build the ReactJS Single Page Application for Tournament.</li>
+													<li>Worked on the React Native App for Football Club.</li>
+													<li>Worked on app and website for Retail Client using React Native and ReactJS.</li>
+													<li>Build the Uber like vehicle moving module for Android App.</li>
+												</ul>
+												</p>
+										</div>
 					            </div>
 					         </article>
 
@@ -36,8 +46,14 @@ export default class Experience extends Component {
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+					               	<h2><a href="#">Junior Android Developer at Calibrated Advisory</a> <span>June 2017-Feb 2018</span></h2>
+					                  <p>
+												<ul>
+													<li>Responsible for communicate with client to understand the requirements.</li>
+													<li>Responsible for building high quality Android Apps as per requirement.</li>
+													<li>Build app for attendance of employees at client side project.</li>
+												</ul>
+											</p>
 					               </div>
 					            </div>
 					         </article>
@@ -48,42 +64,13 @@ export default class Experience extends Component {
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+					               	<h2><a href="#">Freelancer</a> <span>Jan 2017-May 2017</span></h2>
+					                  <p>Developed an android app for patients quiz.</p>
 					               </div>
 					            </div>
 					         </article>
 
-					         <article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
-					            <div class="timeline-entry-inner">
-					               <div class="timeline-icon color-4">
-					                  <i class="icon-pen2"></i>
-					               </div>
-					               <div class="timeline-label">
-					               	<h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-					               </div>
-					            </div>
-					         </article>
-
-					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-					            <div class="timeline-entry-inner">
-					               <div class="timeline-icon color-5">
-					                  <i class="icon-pen2"></i>
-					               </div>
-					               <div class="timeline-label">
-					               	<h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-					               </div>
-					            </div>
-					         </article>
-
-					         <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
-					            <div class="timeline-entry-inner">
-					               <div class="timeline-icon color-none">
-					               </div>
-					            </div>
-					         </article>
+					         
 					      </div>
 					   </div>
 				   </div>
